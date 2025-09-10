@@ -26,11 +26,6 @@ A Landing Page Jet Lub é uma página de landing page para o Jet Lub, uma empres
 
 Foi feita para a disciplina de *Projeto Front-end JavaScript* do curso de *Sistemas para Internet* do IFTM.
 
-## Autor
-
-- [@ruann3res](https://github.com/ruann3res)
-- [@andrelvicente](https://github.com/andrelvicente)
-
 ## Licença
 
 [MIT](https://choosealicense.com/licenses/mit/)
